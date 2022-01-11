@@ -22,7 +22,7 @@ send command and receive results (you should not close the connection with the s
 Files included (6):
 - Client Output Screenshot.pdf --> screenshot of the client program while running.
 - ClientT1.java --> client side application.
-- READ_ME.txt --> text description of how the program works.
+- README.md --> text description of how the program works.
 - Server Output Screenshot 1.pdf --> screenshot 1/2 of the server program while running.
 - Server Output Screenshot 2.pdf --> screenshot 2/2 of the server program while running.
 - Server.java --> server side application.
