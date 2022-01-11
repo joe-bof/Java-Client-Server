@@ -16,7 +16,7 @@ Think of the way a server can use to keep track of these messages, you need mail
 All what a client needs to know: 1) the IP of the server; and 2) the username(s) of the intended receiver(s). A client (with a unique identifier) -through his/her local interface- connects to the server, requests certain operation (command), and then displays results back. Any client should open socket with the server, over which the client can
 send command and receive results (you should not close the connection with the server).
 
-*NOTE: list and examples of all client commands is in the client program, and will display tp the user upon boot up._
+*NOTE: list and examples of all client commands is in the client program, and will display to the user upon boot up.
 
 
 Files included (6):
